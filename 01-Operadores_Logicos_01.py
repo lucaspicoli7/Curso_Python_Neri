@@ -8,4 +8,4 @@ print ("Nota é igual à Média.....:",nota == media)     # <-- Igualdade
 print ("Nota é Diferente da Média:",nota != media)     # <-- Diferenciação                 
 print ("Nota é Maior que a Média.:",nota >= media)     # <-- Comparação    
 print ("Passou?..................:",nota >= media)
-print ("Teste..................:")
+
